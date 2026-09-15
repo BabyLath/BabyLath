@@ -8,5 +8,5 @@ Hey, I'm BabyLath, you might also know me as just Lath if we met somewhere onlin
 
 ## Have you done anything notable?
 
-Nope! I've mostly kept most of my projects local or private, but soon I hope to be able to show incredible projects. I enjoy making project that makes me happy and makes everyone laugh and happy as well.
+Nope! I've mostly kept most of my projects local or private, but I have some "notable" projects in my repositories and soon I hope to be able to show incredible projects in the near future. I enjoy making project that makes me happy and makes everyone laugh and happy as well.
 
